@@ -1,0 +1,9 @@
+Found 15688 images belonging to 10 classes.
+981/981 [==============================] - 12306s 13s/step
+Saving deep features for training data...
+Found 2246 images belonging to 10 classes.
+141/141 [==============================] - 1739s 12s/step
+Saving deep features for validation data...
+Found 4490 images belonging to 10 classes.
+281/281 [==============================] - 4017s 14s/step
+Saving deep features for testing data...

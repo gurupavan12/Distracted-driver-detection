@@ -1,0 +1,51 @@
+Epoch -50
+Patience -5
+Batchsize -64
+
+Found 15688 images belonging to 10 classes.
+Found 2246 images belonging to 10 classes.
+Train on 15688 samples, validate on 2246 samples
+Epoch 1/50
+15688/15688 [==============================] - 25s 2ms/step - loss: 2.2422 - acc: 0.4691 - val_loss: 0.4823 - val_acc: 0.8491
+
+Epoch 00001: val_acc improved from -inf to 0.84907, saving model to res/top_model_weights_3.h5
+Epoch 2/50
+15688/15688 [==============================] - 25s 2ms/step - loss: 0.5395 - acc: 0.8135 - val_loss: 0.0830 - val_acc: 0.9777
+
+Epoch 00002: val_acc improved from 0.84907 to 0.97774, saving model to res/top_model_weights_3.h5
+Epoch 3/50
+15688/15688 [==============================] - 26s 2ms/step - loss: 0.3245 - acc: 0.8856 - val_loss: 0.1003 - val_acc: 0.9662
+
+Epoch 00003: val_acc did not improve
+Epoch 4/50
+15688/15688 [==============================] - 27s 2ms/step - loss: 0.2449 - acc: 0.9178 - val_loss: 0.0416 - val_acc: 0.9862
+
+Epoch 00004: val_acc improved from 0.97774 to 0.98620, saving model to res/top_model_weights_3.h5
+Epoch 5/50
+15688/15688 [==============================] - 26s 2ms/step - loss: 0.1961 - acc: 0.9325 - val_loss: 0.0331 - val_acc: 0.9889
+
+Epoch 00005: val_acc improved from 0.98620 to 0.98887, saving model to res/top_model_weights_3.h5
+Epoch 6/50
+15688/15688 [==============================] - 26s 2ms/step - loss: 0.1649 - acc: 0.9450 - val_loss: 0.0248 - val_acc: 0.9933
+
+Epoch 00006: val_acc improved from 0.98887 to 0.99332, saving model to res/top_model_weights_3.h5
+Epoch 7/50
+15688/15688 [==============================] - 26s 2ms/step - loss: 0.1499 - acc: 0.9505 - val_loss: 0.0407 - val_acc: 0.9880
+
+Epoch 00007: val_acc did not improve
+Epoch 8/50
+15688/15688 [==============================] - 27s 2ms/step - loss: 0.1351 - acc: 0.9536 - val_loss: 0.0316 - val_acc: 0.9902
+
+Epoch 00008: val_acc did not improve
+Epoch 9/50
+15688/15688 [==============================] - 28s 2ms/step - loss: 0.1201 - acc: 0.9604 - val_loss: 0.1000 - val_acc: 0.9711
+
+Epoch 00009: val_acc did not improve
+Epoch 10/50
+15688/15688 [==============================] - 28s 2ms/step - loss: 0.1188 - acc: 0.9605 - val_loss: 0.0272 - val_acc: 0.9933
+
+Epoch 00010: val_acc did not improve
+Epoch 11/50
+15688/15688 [==============================] - 26s 2ms/step - loss: 0.1105 - acc: 0.9650 - val_loss: 0.0345 - val_acc: 0.9907
+
+Epoch 00011: val_acc did not improve
